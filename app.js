@@ -13,3 +13,4 @@ function ejercicioUno(palabra,array){
 }
 
 ejercicioUno("Hola",["Mochila","si","no","flores"]);
+
